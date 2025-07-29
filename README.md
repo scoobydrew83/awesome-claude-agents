@@ -27,6 +27,10 @@ With Agent Team:
 Result: Production-ready implementation tailored to your stack
 ```
 
+## ⚠️ Important Notice
+
+**This project is experimental and token-intensive.** I'm actively testing these agents with Claude Max subscription ($200/month) - expect high token consumption during complex workflows. Use with caution and monitor your usage.
+
 ## 🚀 Quick Start (2 Minutes)
 
 ### 1. Install the Agents
@@ -229,6 +233,6 @@ MIT License - Use freely in your projects!
 
 <p align="center">
   <a href="https://github.com/vijaythecoder/awesome-claude-agents">GitHub</a> •
-  <a href="docs/quick-start.md">Documentation</a> •
+  <a href="docs/architecture.md">Documentation</a> •
   <a href="https://github.com/vijaythecoder/awesome-claude-agents/discussions">Community</a>
 </p>
